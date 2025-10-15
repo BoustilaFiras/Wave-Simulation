@@ -199,7 +199,7 @@ simulator.plot_phase_field(save_path='phase.png')
 ### Command Line
 
 ```bash
-python scattering_oop.py
+python scattering.py
 ```
 
 This runs the main() function with default parameters.
